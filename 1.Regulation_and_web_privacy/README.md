@@ -155,7 +155,9 @@ Run the test made by EFF. After running the test you will see a score for ‘Bit
 
   Lowest: CPU Class, Bits of identifying information: 0.09
 
-* Why does identifiability matter? 
+* Why does identifiability matter?
+
+  
 
 * What pros and cons can you think of to being unique vs common?
 
