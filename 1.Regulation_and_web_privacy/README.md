@@ -98,12 +98,17 @@ Let's look at the information about cookies on the Old School Runescape landing 
 <br>
 
 * How many necessary cookies are there?
-  There are 73 strictly necessary cookies.
-* What happens if you try to disable necessary cookies? 
-* List at least 6 different expiry times from the necessary cookies 
-* List 3 different cookie types from necessary cookies 
-* In Statistics, what are the expiry time and cookie type of **JXWEBUID** 
-* In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex 
+* A: There are 73 strictly necessary cookies.
+* What happens if you try to disable necessary cookies?
+* A: The website will no longer be functional or at least it won't function as intended.
+* List at least 6 different expiry times from the necessary cookies
+* A: In the current 6.3.2026 updated version of Cookie declaration there are only 5 different maximum storage durations listed for the necessary cookies: Session duration, 1 day, 30 days, 1 year and persistent.
+* List 3 different cookie types from necessary cookies
+* A: HTTP cookie, Pixel tracker and HTML Local Storage.
+* In Statistics, what are the expiry time and cookie type of **JXWEBUID**
+* A: In the current 6.3.2026 updated version of Cookie declaration, the only cookie named JXWEBUID is found in "Unclassified" category and its expiry time is stated to be 400 days and its type is HTTP Cookie.
+* In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex
+* A: Other listed apps or companies include Quantcast, Google, Adyen, TikTok, Twitter Inc, Zendesk, Taboola, YouTube, Meta Platforms Inc, Reddit, Amazon and Appnexus.
 
 </details>
 
