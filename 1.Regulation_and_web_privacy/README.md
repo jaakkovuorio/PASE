@@ -98,17 +98,23 @@ Let's look at the information about cookies on the Old School Runescape landing 
 <br>
 
 * How many necessary cookies are there?
-* A: There are 73 strictly necessary cookies.
+
+  There are 73 strictly necessary cookies.
 * What happens if you try to disable necessary cookies?
-* A: The website will no longer be functional or at least it won't function as intended.
+
+  The website will no longer be functional or at least it won't function as intended.
 * List at least 6 different expiry times from the necessary cookies
-* A: In the current 6.3.2026 updated version of Cookie declaration there are only 5 different maximum storage durations listed for the necessary cookies: Session duration, 1 day, 30 days, 1 year and persistent.
+
+  In the current 6.3.2026 updated version of Cookie declaration there are only 5 different maximum storage durations listed for the necessary cookies: Session duration, 1 day, 30 days, 1 year and persistent.
 * List 3 different cookie types from necessary cookies
-* A: HTTP cookie, Pixel tracker and HTML Local Storage.
+
+  HTTP cookie, Pixel tracker and HTML Local Storage.
 * In Statistics, what are the expiry time and cookie type of **JXWEBUID**
-* A: In the current 6.3.2026 updated version of Cookie declaration, the only cookie named JXWEBUID is found in "Unclassified" category and its expiry time is stated to be 400 days and its type is HTTP Cookie.
+
+  In the current 6.3.2026 updated version of Cookie declaration, the only cookie named JXWEBUID is found in "Unclassified" category and its expiry time is stated to be 400 days and its type is HTTP Cookie.
 * In Statistics and Marketing, what other Apps or Companies are listed, other than Jagex
-* A: Other listed apps or companies include Quantcast, Google, Adyen, TikTok, Twitter Inc, Zendesk, Taboola, YouTube, Meta Platforms Inc, Reddit, Amazon and Appnexus.
+
+  Other listed apps or companies include Quantcast, Google, Adyen, TikTok, Twitter Inc, Zendesk, Taboola, YouTube, Meta Platforms Inc, Reddit, Amazon and Appnexus.
 
 </details>
 
@@ -144,6 +150,10 @@ Run the test made by EFF. After running the test you will see a score for ‘Bit
 <br>
 
 * Return two categories and results where you had the *highest* and *lowest* amount of identifying bits of information.
+  
+  Highest: Hash of WebGL fingerprint, Bits of identifying information: 10.69
+
+  Lowest: CPU Class, Bits of identifying information: 0.09
 
 * Why does identifiability matter? 
 
@@ -165,8 +175,29 @@ What are your Screen width and Screen height similarity percentage? You may or m
 <br>
 
 * Canvas + WebGL Data
+
+  Canvas: 0.25 %
+
+  WebGL Data: 0.83 %
 * Screen width, Screen height
+
+  Screen width: 19.98%, 1920
+
+  Screen height: 18.92%, 1080
 * Screen available width, Screen available height, Can you explain your result?
+
+  Screen available width: 19.24% 1920
+
+  Screen available height: 3.34% 1032.
+
+  Screen available reduces the area covered by user interface features from 
+the respective screen width and height categories. 
+The screen available width being similar in percentage to screen width
+implies that user interface elements of most users are not located at the rigth and/or left edges
+of the screen, whereas the stark decline in percentage of screen available height
+compared to screen heigth implies that the user interface elements of most users are located 
+at the top and/or the bottom of the screen and that these U.I elements come in varying sizes,
+causing there to be less uniformity in terms of screen available height.
 
 </details>
 
