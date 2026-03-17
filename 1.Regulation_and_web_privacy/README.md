@@ -97,7 +97,8 @@ Let's look at the information about cookies on the Old School Runescape landing 
 <summary><strong>Use the Details tab of the cookie banner to answer the following</strong></summary>
 <br>
 
-* How many necessary cookies are there? 
+* How many necessary cookies are there?
+  There are 73 strictly necessary cookies.
 * What happens if you try to disable necessary cookies? 
 * List at least 6 different expiry times from the necessary cookies 
 * List 3 different cookie types from necessary cookies 
