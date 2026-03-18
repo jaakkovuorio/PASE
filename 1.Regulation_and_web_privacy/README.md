@@ -160,6 +160,7 @@ Run the test made by EFF. After running the test you will see a score for ‘Bit
   Because trackers invisibly identifying and presistently profiling the user based on fingerprinting constitutes a privacy violation. Unlike with cookies there is no consent in fingerprinting and the trackers can track the user accross different sites and sessions, and after the user has been identified and profiled their data can be exploited, for example with targeted ads.
 
 * What pros and cons can you think of to being unique vs common?
+
   Having a unique digital fingerprint would likely make the user more easy to single out and recognize by the trackers, but it would probably also make the user less likely to become a victim of certain forms of identity theft, since someone else with a clearly different digital fingerprint trying to use their personal accounts would likely be automatically recognized and flagged for suspicious activity by the site or service.
   Conversely, having a common digital fingerprint would make it more difficult for trackers to recognize and profile the user, but it might make identitity theft easier.
 
