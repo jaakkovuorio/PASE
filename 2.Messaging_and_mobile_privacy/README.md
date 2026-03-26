@@ -78,7 +78,7 @@ Proceed to 1D.
   
   The sender and receiver email addresses can be seen.
 
-  The time during which the email was sent and received can be seen.
+  The time during which the email was sent can be seen.
   
 * Does verifying the the message **guarantee** the senders identity?
 
