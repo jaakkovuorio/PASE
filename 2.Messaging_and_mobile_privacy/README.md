@@ -42,7 +42,9 @@ These encryptions allow users to quite easily have, for example, self-encrypted 
 Create a gpg keypair, create a message of your choice into a file named 'message.txt', then sign the message and **return both keys here**.
 
   Key IDs:
+  
   DF4F 365E 4F3C BC4D (certify, sign)
+  
   AA46 E7B2 FB2F 6282 (encrypt)
 
 > [!CAUTION]
@@ -73,7 +75,9 @@ Proceed to 1D.
   At least the following:
 
   The subject of the email can be seen and read since it's not encrypted.
+  
   The sender and receiver email addresses can be seen.
+
   The time during which the email was sent and received can be seen.
   
 * Does verifying the the message **guarantee** the senders identity?
