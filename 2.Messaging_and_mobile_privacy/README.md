@@ -41,6 +41,10 @@ These encryptions allow users to quite easily have, for example, self-encrypted 
 
 Create a gpg keypair, create a message of your choice into a file named 'message.txt', then sign the message and **return both keys here**.
 
+  Key IDs:
+  DF4F 365E 4F3C BC4D (certify, sign)
+  AA46 E7B2 FB2F 6282 (encrypt)
+
 > [!CAUTION]
 > NEVER upload your actual private keys in the internet and never share them with anyone else. This key is only used to confirm your keys.
 
@@ -50,19 +54,36 @@ Proceed to 1B.
 
 Encrypt the message from 1A using the provided public key in the "files" folder. Send the encrypted message to [taskmailaddress@proton.me](mailto:taskmailaddress@proton.me), the **subject should be your full name** - this matters for grading the task. It does not matter what address you send the email from. **Mark this task done**.
 
+ Encrypted email has been sent.
+
 Proceed to 1C.
 
 ### **Task 1C)** Verifying a message 3/4p
 
 Download the message in the "files" folder and verify the signature on it with the public key in the same folder. **Answer this part with the name of the owner** of said keys.
 
+ According to Kleopatra, the name of the owner of the keys is Pelle Security.
+
 Proceed to 1D.
 
 ### **Task 1D)** Questions 4/4p
 
 * What can be found out about the email you sent, by one who intercepted it in transit?
+
+  At least the following:
+  The subject of the email can be seen and read since it's not encrypted.
+	 The sender and receiver email addresses can be seen.
+	 The time during which the email was sent and received can be seen.
+  
 * Does verifying the the message **guarantee** the senders identity?
+
+  Sucesfully verifing the message guarantees that the message hasn't been altered after it was sent, but it doesn't necessarily guarantee the senders identity.
+	The key owner who sent the message could be some other person than who they claim to be.
+	Even if the identity of the key user might have been verified before, there might have been a security breach since then and an unknown third party might have gained access to the key.
+
 * Is the process of sending an email this way end-to-end-encrypted(E2EE)?
+
+  Yes, the process fits the definition of end-to-end-encryption since it utilizes a public key for sender encryption and private key for receiver decryption and the message is unintelligible in transit.
 
 <details><summary>Help</summary>
 <br>
