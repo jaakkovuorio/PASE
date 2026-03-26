@@ -71,10 +71,9 @@ Proceed to 1D.
 * What can be found out about the email you sent, by one who intercepted it in transit?
 
   At least the following:
+
   The subject of the email can be seen and read since it's not encrypted.
-  
   The sender and receiver email addresses can be seen.
-  
   The time during which the email was sent and received can be seen.
   
 * Does verifying the the message **guarantee** the senders identity?
