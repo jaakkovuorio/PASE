@@ -39,12 +39,20 @@ Search for ***joe@gmail.com*** on Have I been Pwned, and...
 
 In how many <strong>data breaches</strong> and <strong>pastes</strong> can this email be found?
 
+    
+    It can be found in 321 breaches and 96 pastes.
+
 What are the <strong>compromised data types</strong> in the following services? (answer each separately)
 
 - <strong>Bell</strong>
+
+    Email addresses, geographic locations, IP addresses, job titles, names, passwords, phone numbers, spoken languages, survey results & usernames.
 - <strong>Drizly</strong>
+
+    Dates of birth, device information, email addresses, IP addresses, names, passwords, phone numbers & physical addresses.
 - <strong>Robinhood</strong>
 
+    Email addresses.
 </details>
 
 > While you are at it you might want to check if **your own email addresses** have been associated with any data leaks, and promptly change your password in these services.
@@ -64,6 +72,13 @@ As the information is highly valuable for some entities, these entities will pay
 
 1. **Find at least three of these paid services and list them.**
 
+
+    DeHashed (https://dehashed.com/)
+
+    Snusbase (https://snusbase.com/)
+
+    LeakCheck (https://leakcheck.io/)
+
 *Consider the problems of breach data as follows*. 
 
 Would it be better to build platforms which make **all** breach data searchable for everyone, or identified persons? Or instead, try to remove it from the internet? Which might be impossible.
@@ -80,6 +95,16 @@ Could it change the way we think about privacy, and how we use services and prio
 Or do we make a compromise, and try to remove only the most damaging breaches from the internet?
 
 2. **Write a short answer (150-200 words) of your thoughts. There might not be a correct or incorrect answer, but you need to make arguments.**
+
+
+   Since breach data, just as all data, belongs to an someone, be it an individual, a state, a company, an organization or some other entity, how and what parts of breach data are disclosed (if any at all) should ideally be up to the owner(s) of the data, but in practice that principle would be difficult to implement.
+   
+    Building platforms where all breach data is searchable for everyone or trying to erase it entirely seems unreasonable, the former from privacy perspective and the latter from practical perspective. Requiring someone to pay money to see precisely which parts of his or her personal data has leaked is also questionable since they already own that information and thus should be privy to where it has been spread.
+
+    It would be justified for the end user to see exactly what of his or her personal data has been leaked, but further circulating that exact data, especially on third party services, might make it more prone to being seen by more unrelated persons which poses a risk to privacy and more data breaches. Perhaps it would be sufficient to inform the end user of what kinds of data have been leaked, as in a password used for site X, a phone number that ends with 08, etc. instead of going to precise details.
+   
+    When it comes to companies, they should be required by law to immediately inform the public (in practice some governmental body which would then circulate that information), stockholders and personally affected individuals of any data breaches and the types of data that have been leaked.
+
 
 ---
 
