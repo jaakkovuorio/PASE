@@ -62,6 +62,25 @@ A great place to search for the CVEs is [Mitre](https://cve.mitre.org/index.html
 
 > You are expected to produce essay-like answer, approximately half A4 (200-250 words).
 
+  The Ring Always Home Cam drone could send the material it records to a source other than the owner/customer.  The drone could also have hidden sensors that record something extra in addition to what it is supposed to record. A third party might also be able to gain access to the drone and use it for malicious purposes.
+The private home data collected by Roomba devices could be used by Amazon for their own purposes or they could sell it to some other party.
+  The Alexa/Echo device could send your data to the company or third parties who then share it further with advertisers so that owner can be profiled and targeted with specific ads.
+  The owner of the Ring Doorbell camera could have their private data handed over to the law enforcement without having any say in it, even if the data is not necessarily crucial to the investigation. Hackers can also hijack the devices for their own use.
+  The Astro robot can collect and send your data to Amazon who can use it to profile your customer behavior. Third parties could also hack the device and gain access to your data that it collects and stores.
+  
+  CVE-2023-33248: An unauthorized user i.e. attacker could use specific frequencies to successfully give an Amazon Echo device voice commands.
+  
+  CVE-2019-9483: Ring Doorbell mishandled encryption and allowed a potential attacker to gain access to its data and enabled the attacker to insert their own data to the device.
+  
+  CVE-2023-42189: Insecure permissions vulnerability enabled an attacker to remotely activate a denial of service on the Yeelight smart lamp.
+ 
+  CVE-2023-39841: Faulty encryption of the Etekcity 3-in-1 Smart Door Lock enabled an attacker to create a cloned tag via brief physical proximity to the original device.
+  
+  CVE-2024-46539: Insecure Blue-Tooth component permissions enable the attacker to cause a denial of service in the Fire-Boltt Artillery Smart Watch.
+  
+  The described third-party doctrine does not apply in Finland since it goes against both the national Finnish legislation and privacy-related regulations of the EU.
+
+
 ---
 
 ### **Task 1B)** Regular operating systems
