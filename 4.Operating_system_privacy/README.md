@@ -105,6 +105,40 @@ If you are unable to find sources for your devices, you can use some well-studie
 - Manufacturer and their country of origin
 - Did you learn anything new about your phone/computer?
 
+Phone: Galaxy A3
+  
+  OS: Android 8.0.0
+
+  Country of origin: South Korea
+
+  Manufacturer: Samsung
+
+  I hadn’t thought about the possibility that data about the applications installed on my phone would be collected and sent forward, but it doesn’t seem so strange in retrospect considering how many kinds of data is sent forward overall.
+
+  While there wasn’t much well-sourced information available about Galaxy A3 model specifically, it should be similar to other Samsung Android OEM (original equipment manufacturer) devices when it comes to data that is sent forward. Data sent by the smartphone in question should include the following (classification of data types is done similarly as they were presented in source studies):
+
+  Persistent identifiers, i.e. identifiers which survive a factory reset, which include the international mobile station equipment identity (IMEI), which serves as a unique identifier for each mobile device, and the hardware serial number. These identifiers are transmitted during firmware updates, advertising (download of adverts and tracking of user interactions with adverts), OEM services and in analytics, such as logging of device activity.
+
+  Resettable identifiers, i.e. identifiers which can be reset by the user, include the consumer ID, which is typically an email address, and Google Advertising ID, which is a unique identifier provided by Google Play service.
+
+  Device configuration data, which include technical details of the device such as model, screen size and the operating system version.
+
+  List of applications installed on the device, which is transmitted to endpoints of OEM services.
+
+  Telemetry i.e. event logs of system app usage, such as windows and activities viewed, timestamps from app usage, SIM insertion events and phone call making/receiving events.
+
+
+Sources:
+
+  Android Mobile OS Snooping By Samsung, Xiaomi, Huawei and Realme Handsets (2021) 
+  
+    (https://www.scss.tcd.ie/doug.leith/Android_privacy_report.pdf)
+
+  On the data privacy practices of Android OEMs (2023) 
+  
+    (https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0279942)
+
+
 </details>
 
 ---
